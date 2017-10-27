@@ -1,0 +1,31 @@
+{
+  "name": "prse-backend-server",
+  "version": "0.0.1",
+  "description": "A backend server providing REST API for several different applications fpr Project Sentinel",
+  "main": "prse-server.js",
+  "scripts": {
+    "start": "node prse-server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Komeran/prse-backend-server"
+  },
+  "keywords": [
+    "node",
+    "komeran",
+    "gravian",
+    "prse",
+    "project sentinel",
+    "backend",
+    "server"
+  ],
+  "author": "Marc Schäfer",
+  "contributors": [
+    "Marc Schäfer <komerankesum@gmail.com>"
+  ],
+  "license": "MIT"
+}
