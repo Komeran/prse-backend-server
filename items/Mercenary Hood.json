@@ -1,0 +1,85 @@
+{
+	"name": "Mercenary Hood",
+	"tiers": [
+		{
+			"tier": 1,
+			"prefix": "Beginner's",
+			"recipe": [
+				{
+					"name": "Scrap of Hide",
+					"count": 4
+				}
+			]
+		},
+		{
+			"tier": 2,
+			"prefix": "Novice's",
+			"recipe": [
+				{
+					"name": "Stiff Leather",
+					"count": 8
+				}
+			]
+		},
+		{
+			"tier": 3,
+			"prefix": "Journeyman's",
+			"recipe": [
+				{
+					"name": "Thick Leather",
+					"count": 8
+				}
+			]
+		},
+		{
+			"tier": 4,
+			"prefix": "Adept's",
+			"recipe": [
+				{
+					"name": "Worked Leather",
+					"count": 8
+				}
+			]
+		},
+		{
+			"tier": 5,
+			"prefix": "Expert's",
+			"recipe": [
+				{
+					"name": "Cured Leather",
+					"count": 8
+				}
+			]
+		},
+		{
+			"tier": 6,
+			"prefix": "Master's",
+			"recipe": [
+				{
+					"name": "Hardened Leather",
+					"count": 8
+				}
+			]
+		},
+		{
+			"tier": 7,
+			"prefix": "Grandmaster's",
+			"recipe": [
+				{
+					"name": "Reinforced Leather",
+					"count": 8
+				}
+			]
+		},
+		{
+			"tier": 8,
+			"prefix": "Elder's",
+			"recipe": [
+				{
+					"name": "Fortified Leather",
+					"count": 8
+				}
+			]
+		}
+	]
+}
