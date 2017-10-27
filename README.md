@@ -13,6 +13,8 @@ In this section all Use Cases for the REST Service are listed.
 #### Albion Online
 
 ##### Crafting Helper
+* ~~Get Item info~~
+* ~~Add Item info (including data schema validation)~~
 * Get Crafting Recipes
 * Calculate Crafting Resources
 * Get Craftables from Resource or Material including Craftables of Craftables and so on
